@@ -13,3 +13,11 @@
 - Reduce the time it takes to fully train a new employee (currently 3 months).
 - Make a step-by-step process for training so every new employee learns the same way.
 - Create training materials like guides, checklists, or videos to help new employees.
+
+
+2. Making Client Onboarding Easier
+
+- Standardize how employees onboard new clients so it is done the same way each time.
+- Simplify the process so clients do not get confused.
+- Develop a clear set of instructions for both employees and clients.
+
