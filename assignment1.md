@@ -28,3 +28,12 @@
 - Ensure everyone knows what to do during onboarding.
 - Provide a way to collect feedback to improve the process over time.
 
+
+# Assumptions:
+
+1. The client wants a digital solution to streamline onboarding.
+2. The onboarding process currently lacks documentation and standard procedures.
+3. Employees have different ways of onboarding clients due to a lack of clear guidelines.
+4. Customers find the onboarding process confusing due to unclear instructions.
+5. A self-service option for clients may help reduce workload for employees.
+
