@@ -37,3 +37,15 @@
 4. Customers find the onboarding process confusing due to unclear instructions.
 5. A self-service option for clients may help reduce workload for employees.
 
+
+# Questions to Ask the Client:
+
+1. Can you explain how you currently onboard new employees?
+2. What are the biggest challenges in training new employees?
+3. What key information should every new employee know?
+4. How do you train employees to onboard clients?
+5. What steps do clients have to complete during onboarding?
+6. What issues have clients reported about the onboarding process?
+7. Are there any rules or regulations we need to follow?
+8. Would you prefer a digital system, a checklist, or another method?
+
