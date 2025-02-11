@@ -40,6 +40,16 @@
 5. A self-service option for clients may help reduce workload for employees.
 
 
+## Validation Plan for Assumptions
+
+To confirm our assumptions, we will:
+- Ask the client directly if they prefer a digital solution or another approach.
+- Request details on any existing onboarding documentation or processes.
+- Observe how employees onboard clients to understand inconsistencies.
+- Collect feedback from employees and clients about their frustrations.
+- Propose a self-service option and gauge the client’s interest.
+
+
 ## Questions to Ask the Client
 
 1. Can you explain how you currently onboard new employees?
