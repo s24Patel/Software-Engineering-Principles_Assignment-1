@@ -49,3 +49,13 @@
 7. Are there any rules or regulations we need to follow?
 8. Would you prefer a digital system, a checklist, or another method?
 
+
+* Follow-up Questions:
+
+- Which part of the onboarding process takes the longest?
+- Do employees follow any written guidelines now?
+- Are there existing tools or software you use?
+- Would a self-service portal help new clients?
+- What improvements have you considered before?
+
+
