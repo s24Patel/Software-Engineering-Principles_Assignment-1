@@ -59,3 +59,14 @@
 - What improvements have you considered before?
 
 
+# Preliminary Tasks:
+
+1. Document the current onboarding process.
+2. Identify the main problems employees and clients face.
+3. Develop a simple and clear onboarding workflow.
+4. Plan a training guide or checklist for employees.
+5. Create a draft of an easy-to-follow onboarding guide for clients.
+6. Outline how feedback will be collected and used for improvements.
+
+
+
